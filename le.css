@@ -1,0 +1,38 @@
+body{
+    background-image:url("a.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#hi{
+    position: fixed;
+    left: 40%;
+    top: 15%;
+    font-size: 250%;
+    
+}
+
+table{
+    position: fixed;
+    top: 35%;
+    left: 37%;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+ 
+}
+button{
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+}
+p{
+    font-size: 250%;
+    color: yellow;
+    position: fixed;
+    left: 50%;
+}
+#ans{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
